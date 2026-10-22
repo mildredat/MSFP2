@@ -49,7 +49,7 @@ Se analizan tres conjuntos de parámetros correspondientes a un caso hipotenso, 
 
 La práctica se desarrolla exclusivamente mediante experimentación *in silico*. Se implementan ecuaciones de estado, funciones de transferencia y el circuito equivalente en MATLAB/Simulink/Simscape Electrical. Además, se implementan las funciones de transferencia en Python para verificar de forma independiente las respuestas computacionales.
 
-**Palabras clave:** sistema cardiovascular; modelo Windkessel; hemodinámica; distensibilidad arterial; ecuaciones diferenciales; función de transferencia; controlador PID; MATLAB; Simulink; Simscape Electrical; Python.
+**Palabras clave:** sistema cardiovascular; modelo Windkessel; hemodinámica; hipotenso; hipertenso; normotenso.
 
 [Volver al contenido](#contenido)
 
