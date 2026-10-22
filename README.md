@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/MSF-IBF1020)
 
-# Práctica 5.4 — Modelado y control del sistema cardiovascular mediante el modelo Windkessel
+# Práctica 2: Modelado y control del sistema cardiovascular mediante el modelo Windkessel
 
 Repositorio académico de la asignatura **Modelado de Sistemas Fisiológicos (IBF-1020)**, del programa de **Ingeniería Biomédica** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana.
 
